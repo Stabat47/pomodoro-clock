@@ -30,7 +30,7 @@ Set custom **Session** and **Break** lengths, start/stop the timer, reset anytim
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/pomodoro-clock.git
+git clone https://github.com/Stabat47/pomodoro-clock.git
 cd pomodoro-clock
 ```
 ### 2. Install Dependencies
